@@ -1,1 +1,1 @@
-## Linux CLI and HTTP
+## Linux CLI, and HTTP
